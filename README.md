@@ -95,7 +95,7 @@ The system also highlights **matched skills**, identifies **missing skills**, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/AI-RESUME-SCREENER.git
+git clone https://github.com/pareshrnayak/AI-RESUME-SCREENER.git
 
 # Navigate into project folder
 cd AI-RESUME-SCREENER
